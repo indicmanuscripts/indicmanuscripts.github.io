@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Learning to Generate 3D Shapes and Scenes</h1></center>
     <center><h2>ECCV 2022 Workshop</h2></center>
-    <center><span style="font-weight:400;">Oct Date TBD 2022 TIME TBD</span></center>
+    <center><span style="font-weight:400;">October 2022</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
@@ -162,7 +162,7 @@ acknowledgements: ""
       The submission should be in the ECCV format.
       Reviewing will be single blind.
       Accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-      We welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main CVPR conference.
+      We welcome already published papers that are within the scope of the workshop (without re-formatting), including papers from the main ECCV conference.
       Please submit your paper to the following address by the deadline: <span style="color:#1a1aff;font-weight:400;"><a href="mailto:3dscenegeneration@gmail.com">3dscenegeneration@gmail.com</a></span>
       Please mention in your email if your submission has already been accepted for publication (and the name of the conference).
     </p>
