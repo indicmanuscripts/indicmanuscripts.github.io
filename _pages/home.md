@@ -131,12 +131,48 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
+    <a href="https://www.cs.princeton.edu/~jiadeng/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jia.png" | prepend:site.baseurl }}"></a>
     <p>
-      TBD
+      <b><a href="https://www.cs.princeton.edu/~jiadeng/">Jia Deng</a></b> is an Assistant Professor of Computer Science at Princeton University. He direct the Princeton Vision & Learning Lab. His current interests include 3D vision, object recognition, action recognition, and automated theorem proving. He received his Ph.D. from Princeton University and his B.Eng. from Tsinghua University, both in computer science. He is a recipient of the Sloan Research Fellowship, the NSF CAREER award, the ONR Young Investigator award, an ICCV Marr Prize, and two ECCV Best Paper Awards.
     </p>
   </div>
 </div><br>
 
+<div class="row">
+  <div class="col-md-12">
+    <a href="http://www.cvlibs.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="http://www.cvlibs.net/">Andreas Geiger</a></b> is a Professor of computer science heading the Autonomous Vision Group (AVG). His group is part of the University of Tübingen and the MPI for Intelligent Systems located in Tübingen, Germany at the heart of CyberValley.  He is deputy head of the department of computer science at the University of Tübingen, PI in the cluster of excellence `ML in Science' and the CRC `Robust Vision'. He is also an ELLIS fellow, board member, and coordinator of the ELLIS PhD program. His research group is developing machine learning models for computer vision, natural language and robotics with applications in self-driving, VR/AR and scientific document analysis.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://csse.szu.edu.cn/staff/ruizhenhu/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ruizhen.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Associate Professor of College of Computer Science & Software Engineering at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). Before coming to Shenzhen Uni- versity, she was an Assistant Researcher at Shenzhen In- stitutes of Advanced Technology (SIAT). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 from the Department of Mathematics at Zhejiang University, China. From Oct.  2012 to Oct. 2014, she spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, Canada, under the supervision of Prof.  Hao (Richard) Zhang. The visit was supported by China Scholarship Council (CSC). Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, where she leads the Kanazawa AI Research (KAIR) lab under BAIR. She serves on the advisory board of Wonder Dynamics. Previously, she was a Research Scientist at Google Research, and BAIR postdoc at UC Berkeley advised by Jitendra Malik, Alexei A. Efros and Trevor Darrell. She completed my PhD in Computer Science at the University of Maryland, College Park with David Jacobs. During her PhD, she visited the Max Planck Institute in Tübingen, Germany under the guidance of Michael Black. Prior to that, she spent four years at NYU where she worked with Rob Fergus and completed a BA in Mathematics and Computer Science.
+    </p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <a href="https://homes.cs.washington.edu/~adriana/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/adriana.png" | prepend:site.baseurl }}"></a>
+    <p>
+      <b><a href="https://homes.cs.washington.edu/~adriana/">Adriana Schulz</a></b> is an assistant professor at the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a member of the Computer Graphics Group (GRAIL). She is also co-director of the Digital Fabrication Center at UW (DFab) and the director of WiGRAPH. Her research group creates manufacturing design systems that will revolutionize how we build physical artifacts, and builds next-generation design tools for manufacturing that fundamentally change what can be made, and by whom. 
+    </p>
+  </div>
+</div><br>
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
