@@ -131,7 +131,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.princeton.edu/~jiadeng/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jia.png" | prepend:site.baseurl }}"></a>
+    <a href="https://www.cs.princeton.edu/~jiadeng/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jia.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://www.cs.princeton.edu/~jiadeng/">Jia Deng</a></b> is an Assistant Professor of Computer Science at Princeton University. He direct the Princeton Vision & Learning Lab. His current interests include 3D vision, object recognition, action recognition, and automated theorem proving. He received his Ph.D. from Princeton University and his B.Eng. from Tsinghua University, both in computer science. He is a recipient of the Sloan Research Fellowship, the NSF CAREER award, the ONR Young Investigator award, an ICCV Marr Prize, and two ECCV Best Paper Awards.
     </p>
@@ -140,7 +140,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="http://www.cvlibs.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas.png" | prepend:site.baseurl }}"></a>
+    <a href="http://www.cvlibs.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="http://www.cvlibs.net/">Andreas Geiger</a></b> is a Professor of computer science heading the Autonomous Vision Group (AVG). His group is part of the University of Tübingen and the MPI for Intelligent Systems located in Tübingen, Germany at the heart of CyberValley.  He is deputy head of the department of computer science at the University of Tübingen, PI in the cluster of excellence `ML in Science' and the CRC `Robust Vision'. He is also an ELLIS fellow, board member, and coordinator of the ELLIS PhD program. His research group is developing machine learning models for computer vision, natural language and robotics with applications in self-driving, VR/AR and scientific document analysis.
     </p>
@@ -158,7 +158,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.png" | prepend:site.baseurl }}"></a>
+    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, where she leads the Kanazawa AI Research (KAIR) lab under BAIR. She serves on the advisory board of Wonder Dynamics. Previously, she was a Research Scientist at Google Research, and BAIR postdoc at UC Berkeley advised by Jitendra Malik, Alexei A. Efros and Trevor Darrell. She completed my PhD in Computer Science at the University of Maryland, College Park with David Jacobs. During her PhD, she visited the Max Planck Institute in Tübingen, Germany under the guidance of Michael Black. Prior to that, she spent four years at NYU where she worked with Rob Fergus and completed a BA in Mathematics and Computer Science.
     </p>
@@ -167,7 +167,7 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://homes.cs.washington.edu/~adriana/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/adriana.png" | prepend:site.baseurl }}"></a>
+    <a href="https://homes.cs.washington.edu/~adriana/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/adriana.jpg" | prepend:site.baseurl }}"></a>
     <p>
       <b><a href="https://homes.cs.washington.edu/~adriana/">Adriana Schulz</a></b> is an assistant professor at the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a member of the Computer Graphics Group (GRAIL). She is also co-director of the Digital Fabrication Center at UW (DFab) and the director of WiGRAPH. Her research group creates manufacturing design systems that will revolutionize how we build physical artifacts, and builds next-generation design tools for manufacturing that fundamentally change what can be made, and by whom. 
     </p>
