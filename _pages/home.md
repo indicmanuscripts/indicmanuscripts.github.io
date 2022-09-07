@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Learning to Generate 3D Shapes and Scenes</h1></center>
     <center><h2>ECCV 2022 Workshop</h2></center>
-    <center><span style="font-weight:400;">October 2022</span></center>
+    <center><span style="font-weight:400;">October 23, 2022</span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
@@ -23,7 +23,7 @@ acknowledgements: ""
 
 <hr>
 
-<b>Join YouTube live stream at <a href="index.html">TBD</a>.</b>
+<!-- <b>Join YouTube live stream at <a href="index.html">TBD</a>.</b> -->
 
 <b>Submit questions for the closing panel discussion using this google form: <a href="index.html">TBD</a>.</b>
 
@@ -56,12 +56,12 @@ acknowledgements: ""
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>9:00am - 9:15am</td>
+          <td>2:00pm - 2:15pm</td>
           <td>Welcome and Introduction</td>
           <td></td>
         </tr>
         <tr>
-          <td>9:15am - 9:40am</td>
+          <td>2:15pm - 2:40pm</td>
           <td>
           Invited Talk 1
           <br/>
@@ -70,7 +70,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>9:40am - 10:05am</td>
+          <td>2:40pm - 3:05pm</td>
           <td>
           Invited Talk 2
           <br/>
@@ -79,7 +79,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>10:05am - 10:30am</td>
+          <td>3:05pm - 3:30pm</td>
           <td>Invited Talk 3
           <br/>
           <i>Title: TBD</i>
@@ -87,7 +87,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>10:30am - 11:25am</td>
+          <td>3:30pm - 4:25pm</td>
           <td>Paper Spotlight Talks</td>
           <td></td>
         </tr>
@@ -97,7 +97,7 @@ acknowledgements: ""
           <td></td>
         </tr> -->
         <tr>
-          <td>11:25am - 11:50am</td>
+          <td>4:25pm - 4:50pm</td>
           <td>
           Invited Talk 4
           <br/>
@@ -106,7 +106,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>11:50am - 12:15pm</td>
+          <td>4:50pm - 5:15pm</td>
           <td>Invited Talk 5
           <br/>
           <i>Title: TBD</i>
@@ -114,7 +114,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>12:15pm - 1:00pm</td>
+          <td>5:15pm - 6:00pm</td>
           <td>Panel Discussion (speakers & panelists)</td>
           <td></td>
         </tr>
@@ -229,7 +229,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>Workshop Date</td>
-          <td>Oct TBD 2022</td>
+          <td>Oct 23 2022</td>
         </tr>
       </tbody>
     </table>
