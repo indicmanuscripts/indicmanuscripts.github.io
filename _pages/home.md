@@ -56,12 +56,12 @@ acknowledgements: ""
      <table class="table table-striped">
       <tbody>
         <tr>
-          <td>2:00pm - 2:15pm</td>
+          <td>3:00pm - 3:15pm</td>
           <td>Welcome and Introduction</td>
           <td></td>
         </tr>
         <tr>
-          <td>2:15pm - 2:40pm</td>
+          <td>3:15pm - 3:40pm</td>
           <td>
           Invited Talk 1
           <br/>
@@ -70,7 +70,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>2:40pm - 3:05pm</td>
+          <td>3:40pm - 4:05pm</td>
           <td>
           Invited Talk 2
           <br/>
@@ -79,7 +79,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>3:05pm - 3:30pm</td>
+          <td>4:05pm - 4:30pm</td>
           <td>Invited Talk 3
           <br/>
           <i>Title: TBD</i>
@@ -87,7 +87,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>3:30pm - 4:25pm</td>
+          <td>4:30pm - 5:25pm</td>
           <td>Paper Spotlight Talks</td>
           <td></td>
         </tr>
@@ -97,7 +97,7 @@ acknowledgements: ""
           <td></td>
         </tr> -->
         <tr>
-          <td>4:25pm - 4:50pm</td>
+          <td>5:25pm - 5:50pm</td>
           <td>
           Invited Talk 4
           <br/>
@@ -106,7 +106,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>4:50pm - 5:15pm</td>
+          <td>5:50pm - 6:15pm</td>
           <td>Invited Talk 5
           <br/>
           <i>Title: TBD</i>
@@ -114,7 +114,7 @@ acknowledgements: ""
           <td></td>
         </tr>
         <tr>
-          <td>5:15pm - 6:00pm</td>
+          <td>6:15pm - 7:00pm</td>
           <td>Panel Discussion (speakers & panelists)</td>
           <td></td>
         </tr>
