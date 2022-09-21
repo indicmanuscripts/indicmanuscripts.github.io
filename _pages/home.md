@@ -158,9 +158,9 @@ acknowledgements: ""
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://people.eecs.berkeley.edu/~kanazawa/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/angjoo.jpg" | prepend:site.baseurl }}"></a>
+    <a href="https://zhengqili.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhengqi.jpg" | prepend:site.baseurl }}"></a>
     <p>
-      <b><a href="https://people.eecs.berkeley.edu/~kanazawa/">Angjoo Kanazawa</a></b> is an Assistant Professor in the Department of Electrical Engineering and Computer Sciences at the University of California, Berkeley, where she leads the Kanazawa AI Research (KAIR) lab under BAIR. She serves on the advisory board of Wonder Dynamics. Previously, she was a Research Scientist at Google Research, and BAIR postdoc at UC Berkeley advised by Jitendra Malik, Alexei A. Efros and Trevor Darrell. She completed my PhD in Computer Science at the University of Maryland, College Park with David Jacobs. During her PhD, she visited the Max Planck Institute in Tübingen, Germany under the guidance of Michael Black. Prior to that, she spent four years at NYU where she worked with Rob Fergus and completed a BA in Mathematics and Computer Science.
+      <b><a href="https://zhengqili.github.io/">Zhengqi Li</a></b> is a research scientist at Google Research. His research interests span 3D/4D computer vision, epsically for images and videos in the wild. He received his CS Ph.D. degree at Cornell University where he was advised by Prof. Noah Snavely. He received his Bachelor of Computer Engineering with High Distinction at University of Minnesota, Twin Cities where he was advised by Prof. Stergios Roumeliotis and was a research assistant at MARS Lab and Google Project Tango (now ARCore). He was also a member of Robotic Sensor Networks (RSN) Lab where he worked closely with Prof. Volkan Isler. He is a recipient of the CVPR 2019 Best Paper Hornorable Mention, 2020 Google Ph.D. Fellowship, 2020 Adobe Research Fellowship, and 2021 Baidu Global Top 100 Chinese Rising Stars in AI.
     </p>
   </div>
 </div><br>
