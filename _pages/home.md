@@ -63,7 +63,7 @@ acknowledgements: ""
         <tr>
           <td>3:15pm - 3:40pm</td>
           <td>
-          Invited Talk 1
+          Invited Talk 1 (Ruizhen Hu)
           <br/>
           <i>Title: TBD</i>
           </td>
@@ -72,7 +72,7 @@ acknowledgements: ""
         <tr>
           <td>3:40pm - 4:05pm</td>
           <td>
-          Invited Talk 2
+          Invited Talk 2 (Jia Deng)
           <br/>
           <i>Title: TBD</i>
           </td>
@@ -80,7 +80,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>4:05pm - 4:30pm</td>
-          <td>Invited Talk 3
+          <td>Invited Talk 3 (Zhengqi Li)
           <br/>
           <i>Title: TBD</i>
           </td>
@@ -99,7 +99,7 @@ acknowledgements: ""
         <tr>
           <td>5:25pm - 5:50pm</td>
           <td>
-          Invited Talk 4
+          Invited Talk 4 (Adriana Schulz)
           <br/>
           <i>Title: TBD</i>
           </td>
@@ -107,7 +107,7 @@ acknowledgements: ""
         </tr>
         <tr>
           <td>5:50pm - 6:15pm</td>
-          <td>Invited Talk 5
+          <td>Invited Talk 5 (Andreas Geiger)
           <br/>
           <i>Title: TBD</i>
           </td>
