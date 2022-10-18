@@ -65,7 +65,7 @@ acknowledgements: ""
           <td>
           Invited Talk 1 (Ruizhen Hu)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Interaction Representation and Generation</i>
           </td>
           <td></td>
         </tr>
@@ -74,7 +74,7 @@ acknowledgements: ""
           <td>
           Invited Talk 2 (Jia Deng)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Learning to Generate Synthetic Data</i>
           </td>
           <td></td>
         </tr>
@@ -82,7 +82,7 @@ acknowledgements: ""
           <td>4:05pm - 4:30pm</td>
           <td>Invited Talk 3 (Zhengqi Li)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Learning Infinite View Generation from Internet Photo Collections</i>
           </td>
           <td></td>
         </tr>
@@ -109,7 +109,7 @@ acknowledgements: ""
           <td>5:50pm - 6:15pm</td>
           <td>Invited Talk 5 (Andreas Geiger)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Generating Images and 3D Shapes</i>
           </td>
           <td></td>
         </tr>
