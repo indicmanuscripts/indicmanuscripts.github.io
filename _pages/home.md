@@ -236,6 +236,136 @@ acknowledgements: ""
   </div>
 </div>
 
+<br>
+<div class="row" id="accepted">
+  <div class="col-md-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+
+<div class="row text-center">
+  <div class="col-md-12">
+    <hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0001-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>3D GAN Inversion for Controllable Portrait Image Animation</a></span>
+    <br/>
+    <i>Connor Z. Lin, David B. Lindell, Eric R. Chan, Gordon Wetzstein</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0002-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>3DLatNav: Navigating Generative Latent Spaces for Semantic-Aware 3D Object Manipulation</a></span>
+    <br/>
+    <i>Amaya Dharmasiri, Dinithi Dissanayake, Mohamed Afham, Isuru Dissanayake, Ranga Rodrigo, Kanchana Thilakarathna</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0003-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>3D Semantic Label Transfer and Matching in Human-Robot Collaboration</a></span>
+    <br/>
+    <i>Szilvia Szeier, Benjámin Baffy, Gábor Baranyi, Joul Skaf, László Kopácsi, Daniel Sonntag, Gábor Sörös, and András Lőrincz</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0004-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Generative Multiplane Images: Making a 2D GAN 3D-Aware</a></span>
+    <br/>
+    <i>Xiaoming Zhao, Fangchang Ma, David Güera, Zhile Ren, Alexander G. Schwing, Alex Colburn</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0005-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Intrinsic Neural Fields: Learning Functions on Manifolds</a></span>
+    <br/>
+    <i>Lukas Koestler, Daniel Grittner, Michael Moeller, Daniel Cremers, Zorah Lähner</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0006-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Learning Joint Surface Atlases</a></span>
+    <br/>
+    <i>Theo Deprelle, Thibault Groueix, Noam Aigerman, Vladimir G. Kim, Mathieu Aubry</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0007-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Learning Neural Radiance Fields from Multi-View Geometry</a></span>
+    <br/>
+    <i>Marco Orsingher, Paolo Zani, Paolo Medici, Massimo Bertozzi</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0008-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Mosaic-based omnidirectional depth estimation for view synthesis</a></span>
+    <br/>
+    <i>Min-jung Shin, Minji Cho, Woojune Park, Kyeongbo Kong, Joonsoo Kim, Kug-jin Yun, Gwangsoon Lee, Suk-Ju Kang</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0009-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Neural Shape Compiler: A Unified Framework for Transforming between Text, Point Cloud, and Program</a></span>
+    <br/>
+    <i>Tiange Luo, Honglak Lee, Justin Johnson</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0010-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>RTMV: A Ray-Traced Multi-View Synthetic Dataset for Novel View Synthesis</a></span>
+    <br/>
+    <i>Jonathan Tremblay, Moustafa Meshry, Alex Evans, Jan Kautz, Alexander Keller, Sameh Khamis, Thomas Müeller, Charles Loop, Nathan Morrica, Koki Nagano, Towaki Takikawa, Stan Birchfield</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0011-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Recovering Detail in 3D Shapes Using Disparity Maps</a></span>
+    <br/>
+    <i>Marissa Ramirez de Chanlatte, Matheus Gadelha, Thibault Groueix, Radomir Mech</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0012-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Share With Thy Neighbors: Single-View Reconstruction by Cross-Instance Consistency</a></span>
+    <br/>
+    <i>Tom Monnier, Matthew Fisher, Alexei A. Efros, Mathieu Aubry</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+    <br/>
+    <span style="font-weight:bold;">
+    <img src="{{ "/static/img/poster/0013-poster.png" | prepend:site.baseurl }}" width='700'><br/>
+    <a href=''>Towards Generalising Neural Implicit Representations</a></span>
+    <br/>
+    <i>Theo W. Costain, Victor A. Prisacariu</i>
+    <br/>
+    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <br/><hr>
+  </div>
+</div>
+
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
