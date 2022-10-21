@@ -101,7 +101,7 @@ acknowledgements: ""
           <td>
           Invited Talk 4 (Adriana Schulz)
           <br/>
-          <i>Title: TBD</i>
+          <i>Title: Generating Content with Computer-Aided Design (CAD) Representations</i>
           </td>
           <td></td>
         </tr>
