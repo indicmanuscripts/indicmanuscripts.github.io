@@ -23,7 +23,7 @@ acknowledgements: ""
 
 <hr>
 
-<!-- <b>Join YouTube live stream at <a href="index.html">TBD</a>.</b> -->
+<b>Join live stream <a href="https://live.allintheloop.net/Agenda/ortra/ortraECCV2022/View_agenda/236653">here</a> (ECCV registration required).</b>
 
 <b>Submit questions for the closing panel discussion using this google form: <a href="https://forms.gle/XADQAVR8HNavtVRj6">https://forms.gle/XADQAVR8HNavtVRj6</a>.</b>
 
