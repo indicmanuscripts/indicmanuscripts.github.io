@@ -25,7 +25,7 @@ acknowledgements: ""
 
 <!-- <b>Join YouTube live stream at <a href="index.html">TBD</a>.</b> -->
 
-<b>Submit questions for the closing panel discussion using this google form: <a href="index.html">TBD</a>.</b>
+<b>Submit questions for the closing panel discussion using this google form: <a href="https://forms.gle/XADQAVR8HNavtVRj6">https://forms.gle/XADQAVR8HNavtVRj6</a>.</b>
 
 <!-- <b>Please give us your feedback on how the workshop went using this Google form: <a href='https://forms.gle/utMpEnF4hmUcR19S7'>https://forms.gle/utMpEnF4hmUcR19S7</a>.</b> -->
 
