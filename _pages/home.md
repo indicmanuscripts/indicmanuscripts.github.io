@@ -253,7 +253,7 @@ acknowledgements: ""
     <br/>
     <i>Connor Z. Lin, David B. Lindell, Eric R. Chan, Gordon Wetzstein</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/18qcR7WjImq_wRpfLf2aI7cRb62JyMppY/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1ZEHbONpIk8tGnCY3PWB3gpw-Cqf-_fLt/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -262,7 +262,7 @@ acknowledgements: ""
     <br/>
     <i>Amaya Dharmasiri, Dinithi Dissanayake, Mohamed Afham, Isuru Dissanayake, Ranga Rodrigo, Kanchana Thilakarathna</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1ZnObAPLwCYvUCqyreMr7dWOlWEvcEL4W/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1rD_YGMNfUkVA_7-RJ6SX8y_rjPZYZlbU/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -271,7 +271,7 @@ acknowledgements: ""
     <br/>
     <i>Szilvia Szeier, Benjámin Baffy, Gábor Baranyi, Joul Skaf, László Kopácsi, Daniel Sonntag, Gábor Sörös, and András Lőrincz</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1GD065M4qj2BhT6ujZEv_kMTFTmBYWL6C/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15GsMVDqnVBQnmg-bIifgY8gENf-xtAn0/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -280,7 +280,7 @@ acknowledgements: ""
     <br/>
     <i>Xiaoming Zhao, Fangchang Ma, David Güera, Zhile Ren, Alexander G. Schwing, Alex Colburn</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/13OVLhihZ5xQEuY_tTu94fZTu_U7WXOpO/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1H4X3FnV2GLhdxc4jJQD45T1EweLb3lZC/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -289,7 +289,7 @@ acknowledgements: ""
     <br/>
     <i>Lukas Koestler, Daniel Grittner, Michael Moeller, Daniel Cremers, Zorah Lähner</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1gfRpZL1HzAkyAVqnD-bWjWTPSNtBdlhk/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/19g5Nq3YIg8KdEkG77QN0QQpORgVeHH39/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -298,7 +298,7 @@ acknowledgements: ""
     <br/>
     <i>Theo Deprelle, Thibault Groueix, Noam Aigerman, Vladimir G. Kim, Mathieu Aubry</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1udFGRnASw9iLDf7PyKMCr_-oZOkU9msR/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1xlEOAWprb1TDx54MNKCVA-lx3uWXDvBn/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -307,7 +307,7 @@ acknowledgements: ""
     <br/>
     <i>Marco Orsingher, Paolo Zani, Paolo Medici, Massimo Bertozzi</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1iVmNqUEzmPrHsimYqfncO-rxpt7T-ekX/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/195vUJdaeFqCqprm6to6s_NEfo6pacMhm/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -316,7 +316,7 @@ acknowledgements: ""
     <br/>
     <i>Min-jung Shin, Minji Cho, Woojune Park, Kyeongbo Kong, Joonsoo Kim, Kug-jin Yun, Gwangsoon Lee, Suk-Ju Kang</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1o8lQ35W7DsVWQuCsjHmRwscPe3qHX2gx/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/16LQyXp6cMG5ttMCjOKUpUUxLScdQlhPU/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -325,7 +325,7 @@ acknowledgements: ""
     <br/>
     <i>Tiange Luo, Honglak Lee, Justin Johnson</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/16LQyXp6cMG5ttMCjOKUpUUxLScdQlhPU/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1drW8odKGHqiZ-5Hykh6f2TsHveF8buO_/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -334,7 +334,7 @@ acknowledgements: ""
     <br/>
     <i>Jonathan Tremblay, Moustafa Meshry, Alex Evans, Jan Kautz, Alexander Keller, Sameh Khamis, Thomas Müeller, Charles Loop, Nathan Morrica, Koki Nagano, Towaki Takikawa, Stan Birchfield</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1SzKp_SD4-vyabtuo5RxMro2P6uZlWDyl/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/1fVA7aTR1XbtfTepEvPSc79Zt-5lupzMt/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -343,7 +343,7 @@ acknowledgements: ""
     <br/>
     <i>Marissa Ramirez de Chanlatte, Matheus Gadelha, Thibault Groueix, Radomir Mech</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/1tZKknBI4iTdBJ_9lhZIY8nESDVDDPJFu/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15Lf7ki5o4f3YA7n6PXgfzQG5zxkJ3VNF/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -352,7 +352,7 @@ acknowledgements: ""
     <br/>
     <i>Tom Monnier, Matthew Fisher, Alexei A. Efros, Mathieu Aubry</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/116Ou7tuDWk6oOPaw-ng4PCM9mMz84jn-/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15iUfNkT7dr8E2fuqkKECGhMalXQg87U2/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
     <br/>
     <span style="font-weight:bold;">
@@ -361,7 +361,7 @@ acknowledgements: ""
     <br/>
     <i>Theo W. Costain, Victor A. Prisacariu</i>
     <br/>
-    <a href=''>Paper</a> | <a href=''>Poster</a> | <a href=''>Video (available after workshop)</a>
+    <a href='https://drive.google.com/file/d/15iUfNkT7dr8E2fuqkKECGhMalXQg87U2/view?usp=sharing'>Paper</a> | <a href='https://drive.google.com/file/d/15iUfNkT7dr8E2fuqkKECGhMalXQg87U2/view?usp=sharing'>Poster</a> | <a href=''>Video (available after workshop)</a>
     <br/><hr>
   </div>
 </div>
