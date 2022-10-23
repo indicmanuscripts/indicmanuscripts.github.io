@@ -25,7 +25,10 @@ acknowledgements: ""
 
 <b>Join live stream <a href="https://live.allintheloop.net/Agenda/ortra/ortraECCV2022/View_agenda/236653">here</a> (ECCV registration required).</b>
 
+<b>Submit questions to the authors of the accepted papers: <a href="https://forms.gle/XADQAVR8HNavtVRj6">https://forms.gle/jbR4rnPVs567geTAA</a>.</b>
+
 <b>Submit questions for the closing panel discussion using this google form: <a href="https://forms.gle/XADQAVR8HNavtVRj6">https://forms.gle/XADQAVR8HNavtVRj6</a>.</b>
+
 
 <!-- <b>Please give us your feedback on how the workshop went using this Google form: <a href='https://forms.gle/utMpEnF4hmUcR19S7'>https://forms.gle/utMpEnF4hmUcR19S7</a>.</b> -->
 
