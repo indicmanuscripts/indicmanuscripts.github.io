@@ -46,10 +46,8 @@ The session aims to foster discussion on (i) motivation for study and preservati
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://www.cs.princeton.edu/~jiadeng/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/jia.jpg" | prepend:site.baseurl }}"></a>
-    <p>
-      <b><a href="https://www.cs.princeton.edu/~jiadeng/">Jia Deng</a></b> is an Assistant Professor of Computer Science at Princeton University. He direct the Princeton Vision & Learning Lab. His current interests include 3D vision, object recognition, action recognition, and automated theorem proving. He received his Ph.D. from Princeton University and his B.Eng. from Tsinghua University, both in computer science. He is a recipient of the Sloan Research Fellowship, the NSF CAREER award, the ONR Young Investigator award, an ICCV Marr Prize, and two ECCV Best Paper Awards.
-    </p>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/p-ramanujan.jpeg" | prepend:site.baseurl }}">
+      <b>Veda Varidhi Dr. P. Ramanujan</b> has held numerous professional positions such as the Director, Programme Co-ordinator, Language Computing Group at Centre for Development of Advanced Computing (C-DAC), Bangalore, India. Dr. Ramanujan presented DESIKA software, a Natural Language Understanding system for Sanskrit at Parliament Annexe, New Delhi. He has authored technical papers such as “Computer and Sanskrit research – national status”,  "Computerization of Vedic Texts."</p>
   </div>
 </div><br>
 
