@@ -45,7 +45,7 @@ The session aims to foster discussion on (i) motivation for study and preservati
 </div><br>
 
 <div class="row">
-  <div class="col-md-12">
+  <div class="col-md-12">    
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/p-ramanujan.jpeg" | prepend:site.baseurl }}">
       <b>Veda Varidhi Dr. P. Ramanujan</b> has held numerous professional positions such as the Director, Programme Co-ordinator, Language Computing Group at Centre for Development of Advanced Computing (C-DAC), Bangalore, India. Dr. Ramanujan presented DESIKA software, a Natural Language Understanding system for Sanskrit at Parliament Annexe, New Delhi. He has authored technical papers such as “Computer and Sanskrit research – national status”,  "Computerization of Vedic Texts."</p>
   </div>
