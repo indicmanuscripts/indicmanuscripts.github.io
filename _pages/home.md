@@ -47,42 +47,51 @@ The session aims to foster discussion on (i) motivation for study and preservati
 <div class="row">
   <div class="col-md-12">    
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/p-ramanujan.jpeg" | prepend:site.baseurl }}">
-      <b>Veda Varidhi Dr. P. Ramanujan</b> has held numerous professional positions such as the Director, Programme Co-ordinator, Language Computing Group at Centre for Development of Advanced Computing (C-DAC), Bangalore, India. Dr. Ramanujan presented DESIKA software, a Natural Language Understanding system for Sanskrit at Parliament Annexe, New Delhi. He has authored technical papers such as “Computer and Sanskrit research – national status”,  "Computerization of Vedic Texts". His publications also include “Sapta Lakshana Parishkara”, a text related to subtle details regarding Vedic recitation of Krshna YajurVeda with a detailed commentary, computerised analysis, indices etc. in Devanagari script with Vedic accent-markers for the first time, the Vedic text “Shadvimsati Sutram” with detailed commentary and critical edition based on over 30 palm-leaf manuscripts in various scripts collected from across the country using a special-purpose computer-based manuscript editor for collation and editing. He has several awards to his credit. To mention a few, "VEDA VARIDHI" in 1988, by Veda Dharma Paripalana Sabha, Bangalore ; "VEDA VIJNANA SIROMANI" in 1997, "VAIDIKA BHUSHANAM" in 1998. He was Conferred the degree “VACASPATI”, D.Litt. (Honoris Causa) from Sri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeeth, New Delhi, Feb. 2001.</p>
+      <b>Dr. P. Ramanujan</b> has held numerous professional positions such as the Director, Programme Co-ordinator, Language Computing Group at Centre for Development of Advanced Computing (C-DAC), Bangalore, India. Dr. Ramanujan presented DESIKA software, a Natural Language Understanding system for Sanskrit at Parliament Annexe, New Delhi. He has authored technical papers such as “Computer and Sanskrit research – national status”,  "Computerization of Vedic Texts". His publications also include “Sapta Lakshana Parishkara”, a text related to subtle details regarding Vedic recitation of Krshna YajurVeda with a detailed commentary, computerised analysis, indices etc. in Devanagari script with Vedic accent-markers for the first time, the Vedic text “Shadvimsati Sutram” with detailed commentary and critical edition based on over 30 palm-leaf manuscripts in various scripts collected from across the country using a special-purpose computer-based manuscript editor for collation and editing. He has several awards to his credit. To mention a few, "VEDA VARIDHI" in 1988, by Veda Dharma Paripalana Sabha, Bangalore ; "VEDA VIJNANA SIROMANI" in 1997, "VAIDIKA BHUSHANAM" in 1998. He was conferred the degree “VACASPATI”, D.Litt. (Honoris Causa) from Sri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeeth, New Delhi, Feb. 2001.</p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="http://www.cvlibs.net/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/andreas.jpg" | prepend:site.baseurl }}"></a>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/mukulsinha.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b><a href="http://www.cvlibs.net/">Andreas Geiger</a></b> is a Professor of computer science heading the Autonomous Vision Group (AVG). His group is part of the University of Tübingen and the MPI for Intelligent Systems located in Tübingen, Germany at the heart of CyberValley.  He is deputy head of the department of computer science at the University of Tübingen, PI in the cluster of excellence `ML in Science' and the CRC `Robust Vision'. He is also an ELLIS fellow, board member, and coordinator of the ELLIS PhD program. His research group is developing machine learning models for computer vision, natural language and robotics with applications in self-driving, VR/AR and scientific document analysis.
+      <b>Dr. Mukul K Sinha </b> is a Director at Expert Software Consultants Pvt. Ltd., New Delhi. He has been active in the field of Computer Science and Language Processing since last 45+ years, in various dimensions, viz., research, academia, govt. policy making bodies, product development and consultancy services, etc. He has done research in the areas of Operating Systems, Distributed Databases, Software Engineering, Cloud Computing, Digital Preservation and Indic Languages Computing. He is and has been a member in various committees of Dept. of Electronics and Information Technology (DeitY), Govt. of India for many years, in the fields of Software R&D, Technology Development in Indian Languages (TDIL). Presently, he is the Chairman of Project Review and Steering Group (PRSG) on Long Term Digital Preservation, and North-east Cultural Heritage Project for DeitY. He is also the member of the Advisory Committee of Computer Informatics Laboratory (CIL) of Indira Gandhi National Center for Arts (IGNCA), New Delhi for last ten years.   His company was associated with “Indian Language to Indian Language Machine Translation System (ILMT)” Consortium Project, as its Software Engineering Group. He is a Mentor of eBhasha Setu Languages Service Private Limited, Hyderabad, a Startup in the field of AI assisted Natural Language Processing (NLP) field since 2016. He is B.Tech from BIT Sindri, Bihar; M.Tech from IIT Kanpur; and Ph.D. in Computer Science from Tata Institute of Fundamental Research (TIFR), Mumbai. He is a Senior Member IEEE Inc. since last 35 years, and has been nominated as a Senior Life Member from January 2021.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://csse.szu.edu.cn/staff/ruizhenhu/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ruizhen.png" | prepend:site.baseurl }}"></a>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ma-alwar.jpg" | prepend:site.baseurl }}">
     <p>
-      <b><a href="https://csse.szu.edu.cn/staff/ruizhenhu/">Ruizhen Hu</a></b> is an Associate Professor of College of Computer Science & Software Engineering at Shenzhen University and Deputy Director of the Visual Computing Research Center (VCC). Before coming to Shenzhen Uni- versity, she was an Assistant Researcher at Shenzhen In- stitutes of Advanced Technology (SIAT). She obtained her Ph.D. degree in Applied Math under the supervision of Prof. Ligang Liu in June 2015 from the Department of Mathematics at Zhejiang University, China. From Oct.  2012 to Oct. 2014, she spent two years visiting the GrUVi Lab in the School of Computing Science at Simon Fraser University, Canada, under the supervision of Prof.  Hao (Richard) Zhang. The visit was supported by China Scholarship Council (CSC). Her research interests are in computer graphics, with a recent focus on applying machine learning to advance the understanding and generative modeling of visual data including 3D shapes and indoor scenes.
+      <b>Dr. M A Alwar</b> is an Assistant Professor of Nyaya Sastra and Professor In Charge at Govt. Maharaja’s Sanskrit College, Mysore (Constituent College of Karnataka Sanskrit University, Bangalore. He is currently the Hon. Project Director, Transdisciplinary University (TDU), Foundation for
+Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, implementing the following projects: i. Digital Repository of Medical Manuscripts and books of Karnataka, ii. Comprehensive Descriptive Catalogue of Medical Manuscripts, iii. Critical Edition, Translation and Publication of rare books of Ayurveda and Traditional Dietetics and other such projects. He was also a research scholar for approximately 3 years at Indian Council of Philosophical Research, New Delhi & Rashtriya Sanskrit Vidyapeetha (Deemed University), Tirupathi, Andhra Pradesh. He is an approved Guide for M.Phil and Ph.D of the Karnataka Sanskrit University.</p>
+  </div>
+</div><br>
+
+<div class="row">
+  <div class="col-md-12">
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/gp-prasad.jpeg" | prepend:site.baseurl }}">
+    <p>
+      <b>Dr G Penchala Prasad</b> is an Assistant Director in-charge RAIFR, CCRAS, Ministry of AYUSH, Pune, India.
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://zhengqili.github.io/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/zhengqi.jpg" | prepend:site.baseurl }}"></a>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/kermorvant.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b><a href="https://zhengqili.github.io/">Zhengqi Li</a></b> is a research scientist at Google Research. His research interests span 3D/4D computer vision, epsically for images and videos in the wild. He received his CS Ph.D. degree at Cornell University where he was advised by Prof. Noah Snavely. He received his Bachelor of Computer Engineering with High Distinction at University of Minnesota, Twin Cities where he was advised by Prof. Stergios Roumeliotis and was a research assistant at MARS Lab and Google Project Tango (now ARCore). He was also a member of Robotic Sensor Networks (RSN) Lab where he worked closely with Prof. Volkan Isler. He is a recipient of the CVPR 2019 Best Paper Hornorable Mention, 2020 Google Ph.D. Fellowship, 2020 Adobe Research Fellowship, and 2021 Baidu Global Top 100 Chinese Rising Stars in AI.
+      <b>Dr. Christopher Kermorvant</b>  
     </p>
   </div>
 </div><br>
 
 <div class="row">
   <div class="col-md-12">
-    <a href="https://homes.cs.washington.edu/~adriana/"><img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/adriana.jpg" | prepend:site.baseurl }}"></a>
+    <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ravipic.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b><a href="https://homes.cs.washington.edu/~adriana/">Adriana Schulz</a></b> is an assistant professor at the Paul G. Allen School of Computer Science & Engineering at the University of Washington and a member of the Computer Graphics Group (GRAIL). She is also co-director of the Digital Fabrication Center at UW (DFab) and the director of WiGRAPH. Her research group creates manufacturing design systems that will revolutionize how we build physical artifacts, and builds next-generation design tools for manufacturing that fundamentally change what can be made, and by whom. 
+      <b>Dr. Ravi Kiran Sarvadevabhatla</b>  
     </p>
   </div>
 </div><br>
