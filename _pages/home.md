@@ -15,7 +15,7 @@ acknowledgements: ""
   <div class="col-xs-12">
     <center><h1>Panel Discussion: The Past, Present and Future of Indic Palm Leaf Manuscript Understanding</h1></center>
     <center><h2>In conjunction with <a href="https://icfhr2022.org/">ICFHR 2022</a></h2></center>
-    <center><span style="font-weight:400;">Dec 5, 2022</span></center>
+    <center><span style="font-weight:400;">5.00pm - 6.30pm IST, Dec 5, 2022 (Online) </span></center>
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
