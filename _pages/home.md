@@ -82,7 +82,7 @@ Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, imple
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/kermorvant.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b>Dr. Christopher Kermorvant</b>  
+      <b>Dr. Christopher Kermorvant</b> is the CEO and AI Expert at Teklia, a French AI software company focused on document processing solutions. He has 20 years of experience in Machine Learning both in the academia and in the industry.  He graduated from ENSIIE and holds a Ph.D. in Computer Science from Université de Lyon-Saint-Etienne. He is associated researcher at the LITIS lab and teaches Machine Learning at CentraleSupélec Exed and in Master Data Science and Engineering at Université de Rouen. 
     </p>
   </div>
 </div><br>
@@ -91,12 +91,12 @@ Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, imple
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ravipic.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b>Dr. Ravi Kiran Sarvadevabhatla</b>  
+      <b>Dr. Ravi Kiran Sarvadevabhatla (panel moderator) </b> is an Assistant Professor affiliated with Centre for Visual Information Technology (CVIT) at IIIT Hyderabad since 2018.  He is also the Lead for Mobility-related Applied Projects and Academic Programs at IHub-Data. Dr. Ravi Kiran obtained his Ph.D. from Indian Institute of Science (IISc), Bangalore in 2018. His Ph.D. thesis is the recipient of IUPRAI Best Thesis Award and Sir Vital R Chandavarkar Memorial Gold Medal. Before joining IISc in 2014, he worked in US-based R&D companies during the period 2008-2013. He obtained his MS in Computer Science from University of Washington, Seattle, USA in 2008. Dr. Ravi Kiran has broad-ranging research interests and likes to work on inter-disciplinary problems involving multi-modal multimedia data (e.g. images,videos, text, audio/speech, eye-tracking data) and disciplines (e.g. Graphics, Robotics, Human-Computer Interaction). His team's research on application of AI-based tools and approaches for analyzing historical palm-leaf manuscripts has been presented at top international conferences and has received TV, newspaper media coverage. For additional details, visit https://ihdia.iiit.ac.in/ .
     </p>
   </div>
 </div><br>
 
-</div>
+
 
 <hr>
 
