@@ -25,6 +25,10 @@ acknowledgements: ""
 
 <hr>
 
+<div align="center">
+<img src="https://i.imgur.com/vZxA3fK.png"></img>
+</div>
+
 <div class="row" id="intro">
   <div class="col-xs-12">
     <h2>Introduction</h2>
