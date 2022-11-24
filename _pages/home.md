@@ -7,6 +7,8 @@ permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
 paper: true
+image:
+  background: [https://github.com/indicmanuscripts/indicmanuscripts.github.io/blob/main/static/img/6702_18_2_2022_15_52_37_1_PALM_LEAFMANUSCRIPTS.jpeg]
 acknowledgements: ""
 ---
 
