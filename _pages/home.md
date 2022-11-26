@@ -18,6 +18,7 @@ acknowledgements: ""
     <center><h1>Panel Discussion: Intelligent Technologies and Systems for Palm Leaf Manuscript Understanding</h1></center>
     <center><h2>In conjunction with <a href="https://icfhr2022.org/">ICFHR 2022</a></h2></center>
     <center><span style="font-weight:400;">5.00pm - 6.30pm IST, Dec 5, 2022 (Online) </span></center>
+    <center><h2><b> LIVE ZOOM LINK:  <a href="[https://icfhr2022.org/](https://iiit-ac-in.zoom.us/j/97437459787)">CLICK HERE</a></h2></center>    
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
