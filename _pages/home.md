@@ -2,7 +2,7 @@
 layout: project
 urltitle:  "Panel Discussion"
 title: "Panel Discussion"
-categories: eccv, workshop, computer vision, computer graphics, deep learning, generative modeling, visual learning, simulation environments, robotics, machine learning, reinforcement learning
+categories: palm leaf manuscripts, historical, Indic
 permalink: /
 favicon: /static/img/ico/favicon.png
 bibtex: true
@@ -19,7 +19,7 @@ acknowledgements: ""
     <center><h2>In conjunction with <a href="https://icfhr2022.org/">ICFHR 2022</a></h2></center>
     <center><span style="font-weight:400;">5.00pm - 6.30pm IST, Dec 5, 2022 </span></center>
     <center><span style="font-weight:400;">Khemka Auditorium, Indian School of Business (ISB), Hyderabad, INDIA </span></center>
-    <center><h2><b> LIVE ZOOM LINK:  <a href="https://iiit-ac-in.zoom.us/j/97437459787">CLICK HERE</a> </b></h2></center>    
+    <center><h2><b><font color="blue"> LIVE ZOOM LINK:  <a href="https://iiit-ac-in.zoom.us/j/97437459787">CLICK HERE</a> </b></font></h2></center>    
     <center><span style="color:#e74c3c;font-weight:400;"></span></center>
     <br/>
   </div>
@@ -28,7 +28,7 @@ acknowledgements: ""
 <hr>
 
 <div align="center">
-<img src="https://i.imgur.com/vZxA3fK.png"></img>
+<img src="https://i.imgur.com/vZxA3fK.png">
 </div>
 
 <div class="row" id="intro">
@@ -55,7 +55,7 @@ The session aims to foster discussion on (i) motivation for study and preservati
 <div class="row">
   <div class="col-md-12">    
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/p-ramanujan.jpeg" | prepend:site.baseurl }}">
-      <b>Dr. P. Ramanujan</b> has held numerous professional positions such as the Director, Programme Co-ordinator, Language Computing Group at Centre for Development of Advanced Computing (C-DAC), Bangalore, India. Dr. Ramanujan presented DESIKA software, a Natural Language Understanding system for Sanskrit at Parliament Annexe, New Delhi. He has authored technical papers such as “Computer and Sanskrit research – national status”,  "Computerization of Vedic Texts". His publications also include “Sapta Lakshana Parishkara”, a text related to subtle details regarding Vedic recitation of Krshna YajurVeda with a detailed commentary, computerised analysis, indices etc. in Devanagari script with Vedic accent-markers for the first time, the Vedic text “Shadvimsati Sutram” with detailed commentary and critical edition based on over 30 palm-leaf manuscripts in various scripts collected from across the country using a special-purpose computer-based manuscript editor for collation and editing. He has several awards to his credit. To mention a few, "VEDA VARIDHI" in 1988, by Veda Dharma Paripalana Sabha, Bangalore ; "VEDA VIJNANA SIROMANI" in 1997, "VAIDIKA BHUSHANAM" in 1998. He was conferred the degree “VACASPATI”, D.Litt. (Honoris Causa) from Sri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeeth, New Delhi, Feb. 2001.</p>
+      <b>Dr. P. Ramanujan</b> has held numerous professional positions such as the Director, Programme Co-ordinator, Language Computing Group at Centre for Development of Advanced Computing (C-DAC), Bangalore, India. Dr. Ramanujan presented DESIKA software, a Natural Language Understanding system for Sanskrit at Parliament Annexe, New Delhi. He has authored technical papers such as “Computer and Sanskrit research – national status”,  "Computerization of Vedic Texts". His publications also include “Sapta Lakshana Parishkara”, a text related to subtle details regarding Vedic recitation of Krshna YajurVeda with a detailed commentary, computerised analysis, indices etc. in Devanagari script with Vedic accent-markers for the first time, the Vedic text “Shadvimsati Sutram” with detailed commentary and critical edition based on over 30 palm-leaf manuscripts in various scripts collected from across the country using a special-purpose computer-based manuscript editor for collation and editing. He has several awards to his credit. To mention a few, "VEDA VARIDHI" in 1988, by Veda Dharma Paripalana Sabha, Bangalore ; "VEDA VIJNANA SIROMANI" in 1997, "VAIDIKA BHUSHANAM" in 1998. He was conferred the degree “VACASPATI”, D.Litt. (Honoris Causa) from Sri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeeth, New Delhi, Feb. 2001.
   </div>
 </div><br>
 
@@ -99,7 +99,7 @@ Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, imple
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ravipic.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b>Dr. Ravi Kiran Sarvadevabhatla (panel moderator) </b> is an Assistant Professor affiliated with Centre for Visual Information Technology (CVIT) at IIIT Hyderabad since 2018.  He is also the Lead for Mobility-related Applied Projects and Academic Programs at IHub-Data. Dr. Ravi Kiran obtained his Ph.D. from Indian Institute of Science (IISc), Bangalore in 2018. His Ph.D. thesis is the recipient of IUPRAI Best Thesis Award and Sir Vital R Chandavarkar Memorial Gold Medal. Before joining IISc in 2014, he worked in US-based R&D companies during the period 2008-2013. He obtained his MS in Computer Science from University of Washington, Seattle, USA in 2008. Dr. Ravi Kiran has broad-ranging research interests and likes to work on inter-disciplinary problems involving multi-modal multimedia data (e.g. images,videos, text, audio/speech, eye-tracking data) and disciplines (e.g. Graphics, Robotics, Human-Computer Interaction). His team's research on application of AI-based tools and approaches for analyzing historical palm-leaf manuscripts has been presented at top international conferences and has received TV, newspaper media coverage. For additional details, visit https://ihdia.iiit.ac.in/ .
+      <b>Dr. Ravi Kiran Sarvadevabhatla (panel moderator) </b> is an Assistant Professor affiliated with Centre for Visual Information Technology (CVIT) at IIIT Hyderabad since 2018.  He is also the Lead for Mobility-related Applied Projects and Academic Programs at IHub-Data. Dr. Ravi Kiran obtained his Ph.D. from Indian Institute of Science (IISc), Bangalore in 2018. His Ph.D. thesis is the recipient of IUPRAI Best Thesis Award and Sir Vital R Chandavarkar Memorial Gold Medal. Before joining IISc in 2014, he worked in US-based R&D companies during the period 2008-2013. He obtained his MS in Computer Science from University of Washington, Seattle, USA in 2008. Dr. Ravi Kiran has broad-ranging research interests and likes to work on inter-disciplinary problems involving multi-modal multimedia data (e.g. images,videos, text, audio/speech, eye-tracking data) and disciplines (e.g. Graphics, Robotics, Human-Computer Interaction). His team's research on application of AI-based tools and approaches for analyzing historical palm-leaf manuscripts has been presented at top international conferences and has received TV, newspaper media coverage. For additional details, visit <a href="https://ihdia.iiit.ac.in/">https://ihdia.iiit.ac.in/</a> .
     </p>
   </div>
 </div><br>
