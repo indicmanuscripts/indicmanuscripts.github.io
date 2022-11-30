@@ -70,8 +70,7 @@ The session aims to foster discussion on (i) motivation for study and preservati
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/ma-alwar.jpg" | prepend:site.baseurl }}">
     <p>
-      <b><u>Dr. M A Alwar</u></b> is an Assistant Professor of Nyaya Sastra and Professor In Charge at Govt. Maharaja’s Sanskrit College, Mysore (Constituent College of Karnataka Sanskrit University, Bangalore. He is currently the Hon. Project Director, Transdisciplinary University (TDU), Foundation for
-Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, implementing the following projects: i. Digital Repository of Medical Manuscripts and books of Karnataka, ii. Comprehensive Descriptive Catalogue of Medical Manuscripts, iii. Critical Edition, Translation and Publication of rare books of Ayurveda and Traditional Dietetics and other such projects. He was also a research scholar for approximately 3 years at Indian Council of Philosophical Research, New Delhi & Rashtriya Sanskrit Vidyapeetha (Deemed University), Tirupathi, Andhra Pradesh. He is an approved Guide for M.Phil and Ph.D of the Karnataka Sanskrit University.</p>
+      <b><u>Dr. M A Alwar</u></b> is an Assistant Professor of Nyaya Sastra and Professor In Charge at Govt. Maharaja’s Sanskrit College, Mysore (Constituent College of Karnataka Sanskrit University, Bangalore. He is currently the Hon. Project Director, Transdisciplinary University (TDU), Foundation for Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, implementing the following projects: i. Digital Repository of Medical Manuscripts and books of Karnataka, ii. Comprehensive Descriptive Catalogue of Medical Manuscripts, iii. Critical Edition, Translation and Publication of rare books of Ayurveda and Traditional Dietetics and other such projects. He was also a research scholar for approximately 3 years at Indian Council of Philosophical Research, New Delhi & Rashtriya Sanskrit Vidyapeetha (Deemed University), Tirupathi, Andhra Pradesh. He is an approved Guide for M.Phil and Ph.D of the Karnataka Sanskrit University.</p>
   </div>
 </div><br>
 
@@ -79,7 +78,7 @@ Revitalization of Local Health Traditions (FRLHT), Bangalore, South India, imple
   <div class="col-md-12">
     <img class="people-pic" style="float:left;margin-right:50px;" src="{{ "/static/img/people/gp-prasad.jpeg" | prepend:site.baseurl }}">
     <p>
-      <b><u>Dr G Penchala Prasad</u></b> is an Assistant Director in-charge RAIFR, CCRAS, Ministry of AYUSH, Pune, India.
+      <b><u>Dr G Penchala Prasad</u></b> is an Assistant Director in-charge RAIFR, CCRAS, Ministry of AYUSH, Pune, India. He has worked in the Collection & Digitization of Medical Manuscripts from South India, Maharashtra & Madhya Pradesh (CDMM) project, digitized 2500 manuscripts related to AYUSH systems and published Descriptive Catalogue Part-1 and 2 of Collection & Digitization of Medical Manuscripts from South India, Maharashtra & Madhya Pradesh, published by National Institute of Indian Medical Heritage (NIIMH), Hyderabad. Under his guidance, the institute is also involved in maintaining the AYUSH Manuscripts Advanced Repository (<a href="https://niimh.nic.in/amar/">AMAR</a>) portal. 
     </p>
   </div>
 </div><br>
